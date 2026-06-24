@@ -6,12 +6,10 @@ To compile the project, do the following in your terminal :
 $ git clone https://github.com/Kuuroojinn/text_editor
 $ cd text_editor
 $ make
-
 ```
 Then you'll be able to launch the program with :
 ```
 $ ./kilo <file_name>
-
 ```
 
 The text editor is for the moment just a file viewer, with a working cursor.
